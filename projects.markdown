@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Tom Preston-Werner
+title: Projects 
 ---
 
 
-{% for post in site.posts %}
+{% for post in site.categories.projects %}
   * [{{ post.title }}]({{ post.url }})
 {% endfor %}
+

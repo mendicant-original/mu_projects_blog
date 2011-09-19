@@ -1,2 +1,4 @@
 markdown: rdiscount
 pygments: false
+root: "/mu_projects_blog"
+author: Mendicant University alumni

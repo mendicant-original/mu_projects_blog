@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Partido de Internet"
+categories:
+  - projects
 ---
 
 ## About the organization
