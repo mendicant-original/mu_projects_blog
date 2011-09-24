@@ -1,0 +1,11 @@
+.heading, body > header h1,h1,h2,h3,h4,h5,h6 {
+  font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans",    "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif
+}
+
+body > header {
+  background-image: url("/assets/MU_projects_logo_no_letters_no_circle_205.png");
+  background-repeat: no-repeat;
+  background-position: 10px center;
+  padding-left: 230px;
+  padding-right: 0px
+}
