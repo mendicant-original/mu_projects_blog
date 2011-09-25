@@ -71,14 +71,14 @@ a {
 transition: color 0.3s
 }
 html {
-background: #252525 url('/mu_projects_blog/assets/line-tile.png?1316790257') top left
+background: #252525 url('/assets/line-tile.png?1316790257') top left
 }
 body > div {
-background: #f2f2f2 url('/mu_projects_blog/assets/noise.png?1316790257') top left;
+background: #f2f2f2 url('/assets/noise.png?1316790257') top left;
 border-bottom: 1px solid #bfbfbf
 }
 body > div > div {
-background: #f8f8f8 url('/mu_projects_blog/assets/noise.png?1316790257') top left;
+background: #f8f8f8 url('/assets/noise.png?1316790257') top left;
 border-right: 1px solid #e0e0e0
 }
 .heading,body > header h1,h1,h2,h3,h4,h5,h6 {
@@ -511,12 +511,12 @@ font-weight: normal
 body > nav {
 position: relative;
 background-color: #ccc;
-background: url('/mu_projects_blog/assets/noise.png?1316790257'),-webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #e0e0e0), color-stop(50%, #cccccc), color-stop(100%, #b0b0b0));
-background: url('/mu_projects_blog/assets/noise.png?1316790257'),-webkit-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
-background: url('/mu_projects_blog/assets/noise.png?1316790257'),-moz-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
-background: url('/mu_projects_blog/assets/noise.png?1316790257'),-o-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
-background: url('/mu_projects_blog/assets/noise.png?1316790257'),-ms-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
-background: url('/mu_projects_blog/assets/noise.png?1316790257'),linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
+background: url('/assets/noise.png?1316790257'),-webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #e0e0e0), color-stop(50%, #cccccc), color-stop(100%, #b0b0b0));
+background: url('/assets/noise.png?1316790257'),-webkit-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
+background: url('/assets/noise.png?1316790257'),-moz-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
+background: url('/assets/noise.png?1316790257'),-o-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
+background: url('/assets/noise.png?1316790257'),-ms-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
+background: url('/assets/noise.png?1316790257'),linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
 border-top: 1px solid #f2f2f2;
 border-bottom: 1px solid #8c8c8c;
 padding-top: .35em;
@@ -681,7 +681,7 @@ width: 147px
 
 }
 .no-placeholder body > nav .search {
-background: #f2f2f2 url('/mu_projects_blog/assets/search.png?1316790257') 0.3em 0.25em no-repeat;
+background: #f2f2f2 url('/assets/search.png?1316790257') 0.3em 0.25em no-repeat;
 text-indent: 1.3em
 }
 @media only screen and (min-width: 550px) {.maskImage body > nav ul[data-subscription$=email] + form {
@@ -711,12 +711,12 @@ border: 0;
 padding: 0
 }
 .maskImage a[rel=subscribe-rss],.maskImage a[rel=subscribe-rss]:after {
--moz-mask-image: url('/mu_projects_blog/assets/rss.png?1316790257');
--webkit-mask-image: url('/mu_projects_blog/assets/rss.png?1316790257');
--o-mask-image: url('/mu_projects_blog/assets/rss.png?1316790257');
--ms-mask-image: url('/mu_projects_blog/assets/rss.png?1316790257');
--khtml-mask-image: url('/mu_projects_blog/assets/rss.png?1316790257');
-mask-image: url('/mu_projects_blog/assets/rss.png?1316790257');
+-moz-mask-image: url('/assets/rss.png?1316790257');
+-webkit-mask-image: url('/assets/rss.png?1316790257');
+-o-mask-image: url('/assets/rss.png?1316790257');
+-ms-mask-image: url('/assets/rss.png?1316790257');
+-khtml-mask-image: url('/assets/rss.png?1316790257');
+mask-image: url('/assets/rss.png?1316790257');
 -moz-mask-repeat: no-repeat;
 -webkit-mask-repeat: no-repeat;
 -o-mask-repeat: no-repeat;
@@ -745,12 +745,12 @@ border: 0;
 padding: 0
 }
 .maskImage a[rel=subscribe-email],.maskImage a[rel=subscribe-email]:after {
--moz-mask-image: url('/mu_projects_blog/assets/email.png?1316790257');
--webkit-mask-image: url('/mu_projects_blog/assets/email.png?1316790257');
--o-mask-image: url('/mu_projects_blog/assets/email.png?1316790257');
--ms-mask-image: url('/mu_projects_blog/assets/email.png?1316790257');
--khtml-mask-image: url('/mu_projects_blog/assets/email.png?1316790257');
-mask-image: url('/mu_projects_blog/assets/email.png?1316790257');
+-moz-mask-image: url('/assets/email.png?1316790257');
+-webkit-mask-image: url('/assets/email.png?1316790257');
+-o-mask-image: url('/assets/email.png?1316790257');
+-ms-mask-image: url('/assets/email.png?1316790257');
+-khtml-mask-image: url('/assets/email.png?1316790257');
+mask-image: url('/assets/email.png?1316790257');
 -moz-mask-repeat: no-repeat;
 -webkit-mask-repeat: no-repeat;
 -o-mask-repeat: no-repeat;
@@ -962,7 +962,7 @@ border: 1px solid #073642 !important
 text-align: right;
 font-size: 13px;
 line-height: 1.45em;
-background: #073642 url('/mu_projects_blog/assets/noise.png?1316790257') top left !important;
+background: #073642 url('/assets/noise.png?1316790257') top left !important;
 border-right: 1px solid #00232c !important;
 -moz-box-shadow: #083e4b -1px 0 inset;
 -webkit-box-shadow: #083e4b -1px 0 inset;
@@ -997,7 +997,7 @@ padding: .6em 0.8em;
 border: 1px solid #083e4b !important;
 color: #586e75;
 font-size: .7em !important;
-background: #073642 url('/mu_projects_blog/assets/noise.png?1316790257') top left;
+background: #073642 url('/assets/noise.png?1316790257') top left;
 line-height: 1.5em
 }
 html .gist .gist-file .gist-meta a {
@@ -1024,7 +1024,7 @@ html .gist .gist-file .gist-meta a[href*=raw] {
 top: .4em
 }
 pre {
-background: #002b36 url('/mu_projects_blog/assets/noise.png?1316790257') top left;
+background: #002b36 url('/assets/noise.png?1316790257') top left;
 -moz-border-radius: 0.4em;
 -webkit-border-radius: 0.4em;
 -o-border-radius: 0.4em;
@@ -1078,7 +1078,7 @@ display: block;
 padding: .8em !important;
 overflow-x: auto;
 line-height: 1.45em;
-background: #002b36 url('/mu_projects_blog/assets/noise.png?1316790257') top left !important;
+background: #002b36 url('/assets/noise.png?1316790257') top left !important;
 color: #93a1a1 !important
 }
 .pre-code *::-moz-selection,html .gist .gist-file .gist-syntax .gist-highlight pre *::-moz-selection,.highlight code *::-moz-selection {
@@ -1342,7 +1342,7 @@ border-top-left-radius: 5px;
 -khtml-border-top-right-radius: 5px;
 border-top-right-radius: 5px;
 font-family: "Helvetica Neue", Arial, "Lucida Grande", "Lucida Sans Unicode", Lucida, sans-serif;
-background: #aaa url('/mu_projects_blog/assets/code_bg.png?1316790257') top repeat-x;
+background: #aaa url('/assets/code_bg.png?1316790257') top repeat-x;
 border: 1px solid #565656;
 border-top-color: #cbcbcb;
 border-left-color: #a5a5a5;
@@ -1577,7 +1577,7 @@ padding-bottom: .15em;
 -khtml-border-bottom-right-radius: 0.3em;
 border-bottom-right-radius: 0.3em;
 text-align: center;
-background: #f8f8f8 url('/mu_projects_blog/assets/noise.png?1316790257') top left;
+background: #f8f8f8 url('/assets/noise.png?1316790257') top left;
 border-bottom: 1px solid #e0e0e0;
 border-right: 1px solid #e0e0e0;
 content: "\00BB";
@@ -1670,12 +1670,12 @@ font-size: .8em;
 color: #888;
 text-shadow: #d9d9d9 0 1px;
 background-color: #ccc;
-background: url('/mu_projects_blog/assets/noise.png?1316790257'),-webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #e0e0e0), color-stop(50%, #cccccc), color-stop(100%, #b0b0b0));
-background: url('/mu_projects_blog/assets/noise.png?1316790257'),-webkit-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
-background: url('/mu_projects_blog/assets/noise.png?1316790257'),-moz-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
-background: url('/mu_projects_blog/assets/noise.png?1316790257'),-o-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
-background: url('/mu_projects_blog/assets/noise.png?1316790257'),-ms-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
-background: url('/mu_projects_blog/assets/noise.png?1316790257'),linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
+background: url('/assets/noise.png?1316790257'),-webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #e0e0e0), color-stop(50%, #cccccc), color-stop(100%, #b0b0b0));
+background: url('/assets/noise.png?1316790257'),-webkit-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
+background: url('/assets/noise.png?1316790257'),-moz-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
+background: url('/assets/noise.png?1316790257'),-o-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
+background: url('/assets/noise.png?1316790257'),-ms-linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
+background: url('/assets/noise.png?1316790257'),linear-gradient(#e0e0e0,#cccccc,#b0b0b0);
 border-top: 1px solid #f2f2f2;
 position: relative;
 padding-top: 1em;

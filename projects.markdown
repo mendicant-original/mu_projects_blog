@@ -5,5 +5,5 @@ title: Tom Preston-Werner
 
 
 {% for post in site.posts %}
-  * [{{ post.title }}](/mu_projects_blog{{ post.url }})
+  * [{{ post.title }}]({{ post.url }})
 {% endfor %}
