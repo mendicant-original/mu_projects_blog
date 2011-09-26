@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "For Great Justice!!!!! Hackfest"
-comments: false
-sharing: true
-footer: true
 ---
 
 ## What is this all about?
@@ -24,7 +21,7 @@ We are looking for organizations that are working towards positive social change
 - want to **pool various mailing lists** together in a useful way, or **integrate social networking tools** into a website, or design a web application that includes **video and audio or geolocation (mapping)**; 
 - need an **inventory system** to keep track of materials, **scheduling system** for events, database to keep track of **client histories**, or **collaboration tool** to keep track of revisions to documents.
 
-These are just some examples. You can take a look at our [current project profiles](/projects.html) for more ideas. 
+These are just some examples. You can take a look at our [current project profiles](projects.html) for more ideas. 
 
 In short, if you are in need of software tools built around your organizing, whether externally-focused or internal, or have some software now that doesn't quite meet your needs, we would like to be in touch with you about the hackfest.  
 
@@ -36,15 +33,11 @@ At the same time, the immediate goal of the weekend is to produce something usef
 
 ## Who owns the software?
 
-All software developed as part of the hackfest must be released under a [free software license](http://en.wikipedia.org/wiki/Free_software_licence). This will ensure that the source code is available for the organizations and future maintainers, as well as for others to use, modify and redistribute it. 
+All software developed as part of the hackfest must be released under a [free software license](http://en.wikipedia.org/wiki/Free_software_licence) -- typically MIT/BSD or GNU Affero GPL. This will ensure that the source code is available for the organizations and future maintainers, as well as for others to use, modify and redistribute it. 
 
 It should go without saying, but programmers are participating in the hackfest as _volunteers_, and should not accept or ask for payment for any work done during the hackfest.
 
-## Something about security?
-
-_Do we need some policy about not publicizing any sensitive data - on the other hand I don't think we want to get into programmers having to sign confidentiality agreements with orgs etc._
-
- 
 ## It's our first time putting on such an event
 
-We are still working out many details. We can't guarantee we'll have enough participants to work on every project. But we know there are many software developers interested in participating already. If you are interested, we'd like to be in touch with you about your work, and to discuss a project you have in mind. [Contact us](mu-hackfest@gmail.com).
+We are still working out many details. We can't guarantee we'll have enough participants to work on every project. But we know there are many software developers interested in participating already. If you are interested, we'd like to be in touch with you about your work, and to discuss a project you have in mind. [Contact us](mailto:rmu.mentoring@gmail.com).
+

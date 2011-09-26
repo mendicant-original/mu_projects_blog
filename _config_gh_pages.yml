@@ -1,4 +1,4 @@
 markdown: rdiscount
 pygments: false
-root: "/"
+root: "/mu_projects_blog"
 author: "Mendicant University alumni"

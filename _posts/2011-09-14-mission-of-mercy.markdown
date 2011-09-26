@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Mission of Mercy"
+categories:
+  - projects
 ---
 
 ## About the organization
