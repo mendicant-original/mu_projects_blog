@@ -3,9 +3,10 @@
 }
 
 body > header {
-  background-image: url("/assets/MU_projects_logo_no_letters_no_circle_205.png");
+  background-image: url("/assets/construction.png");
   background-repeat: no-repeat;
   background-position: 10px center;
   padding-left: 230px;
-  padding-right: 0px
+  padding-right: 0px;
+  background-color: #555;
 }
