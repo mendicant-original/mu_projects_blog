@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Projects 
+title: Projects
 ---
 
 
-{% for post in site.categories.projects %}
+{% for post in site.pages.categories.projects %}
   * [{{ post.title }}]({{ post.url }})
 {% endfor %}
 

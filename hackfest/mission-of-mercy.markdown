@@ -2,7 +2,7 @@
 layout: post
 title: "Mission of Mercy"
 categories:
-  - projects
+  - hackfest
 ---
 
 ## About the organization

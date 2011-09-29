@@ -2,7 +2,7 @@
 layout: post
 title: "Partido de Internet"
 categories:
-  - projects
+  - hackfest
 ---
 
 ## About the organization
@@ -30,7 +30,7 @@ Currently Agora is a Rails 3 application that uses Spanish electronic identity c
 
 
 **Alberto Fernández-Capel** ([afcapel at gmail dot com](mailto:afcapel@gmail.com))<br>
-RMU alumnus 
+RMU alumnus
 
 **Raimond Garcia** ([voodoorai2000 at gmail dot com](mailto:voodoorai2000@gmail.com))
 

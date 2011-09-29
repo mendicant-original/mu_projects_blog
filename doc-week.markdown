@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Doc Week"
+title: "MRI Documentation Week"
+categories:
+  - projects
 ---
 
 ## October 1 - 7, 2011
@@ -21,7 +23,7 @@ Check this space in the coming days for more resources and suggestions for resea
 We'll have some office hours available for drop-in sessions during the week, but you can sign up now to schedule an appointment at a time that's convenient for you.
 
 To sign up, **[open an issue on the MU mentoring github repo](https://github.com/rmu/mentoring/issues)**. Make sure you include the following info:
-  
+
   - your name, or how you'd like to be identified
   - your email
   - your availability for meeting (dates and times) during the week of Oct 1-7

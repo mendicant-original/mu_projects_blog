@@ -1,10 +1,12 @@
 ---
-layout: temporary
+layout: post
 title: "Mendicant University Projects"
 ---
 
-<div>Mendicant University Projects</div>
+We are organizing two free online events in October to put our skills to work in support of positive social change.
 
-<img src="/assets/construction.png" id="construction">
+## [MRI Documentation Week]({{ root-url }}/doc-week.html)  (Oct 1 - 7)
+### Improve the tools you use every day
 
-<div id="info">This site will be launched by 12:00 UTC 2011.09.30</div>
+We're opening up the Mendicant University mentoring program for anyone who wants to work on contributing back to the MRI documentation.
+
