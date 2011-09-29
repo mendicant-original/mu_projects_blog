@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: temporary
 title: "Mendicant University Projects"
 ---
 
