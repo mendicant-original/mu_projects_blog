@@ -1,0 +1,33 @@
+body{
+  background: #f9f9f9;
+  color: #333;
+  font-family: "PT Serif", Georgia, Times, "Times New Roman", serif
+}
+
+#center{
+  margin: 2em auto;
+  width: 970px;
+  font-size: 2.5em;
+  text-align: center;
+}
+
+div#info {
+  font-size: 0.5em;
+}
+
+img{
+  display: block;
+  margin: 1em auto;
+}
+
+footer{
+  color: #666;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer a { color: #666; }
+footer a:visited { color: #666; }
+footer a:hover { color: #333; }
