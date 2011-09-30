@@ -21,7 +21,7 @@ We are looking for organizations that are working towards positive social change
 - want to **pool various mailing lists** together in a useful way, or **integrate social networking tools** into a website, or design a web application that includes **video and audio or geolocation (mapping)**; 
 - need an **inventory system** to keep track of materials, **scheduling system** for events, database to keep track of **client histories**, or **collaboration tool** to keep track of revisions to documents.
 
-These are just some examples. You can take a look at our [current project profiles](projects.html) for more ideas. 
+These are just some examples. You can take a look at our [current project profiles](hackfest-projects.html) for more ideas. 
 
 In short, if you are in need of software tools built around your organizing, whether externally-focused or internal, or have some software now that doesn't quite meet your needs, we would like to be in touch with you about the hackfest.  
 
