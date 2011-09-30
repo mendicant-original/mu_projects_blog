@@ -1,10 +1,10 @@
 ---
-layout: default
-title: Projects
+layout: post
+title: Hackfest Projects 
 ---
 
 
-{% for post in site.pages.categories.projects %}
+{% for post in site.categories.hackfest %}
   * [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
