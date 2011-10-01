@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "For Great Justice!!!!! Hackfest"
+title: "Hackfest For Great Justice!"
 ---
 
 ## What is this all about?
