@@ -1469,7 +1469,9 @@ padding-left: 6.8em
 #content > .category .year {
 display: inline
 }
-.side-shadow-border,aside.sidebar section h1,aside.sidebar li {
+
+/* .side-shadow-border,aside.sidebar section h1,aside.sidebar li { */  /* ericgj removed shadowing from aside.sidebar li */
+.side-shadow-border,aside.sidebar section h1 { 
 -moz-box-shadow: #fff 0 1px;
 -webkit-box-shadow: #fff 0 1px;
 -o-box-shadow: #fff 0 1px;
@@ -1517,7 +1519,7 @@ aside.sidebar li {
 list-style: none;
 padding: .5em 0;
 margin: 0;
-border-bottom: 1px solid #e0e0e0
+/* border-bottom: 1px solid #e0e0e0 */  /* ericgj removed  */
 }
 aside.sidebar li p:last-child {
 margin-bottom: 0
