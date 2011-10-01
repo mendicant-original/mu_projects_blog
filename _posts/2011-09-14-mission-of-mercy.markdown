@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: hackfest_project
 title: "Mission of Mercy"
 categories:
   - hackfest

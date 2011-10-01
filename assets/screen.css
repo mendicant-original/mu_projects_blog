@@ -111,7 +111,7 @@ line-height: 1.2em
 font-size: 1.15em
 }
 h1 {
-font-size: 2.6em;
+font-size: 2.5em;
 line-height: 1.2em
 }
 
@@ -1471,7 +1471,7 @@ display: inline
 }
 
 /* .side-shadow-border,aside.sidebar section h1,aside.sidebar li { */  /* ericgj removed shadowing from aside.sidebar li */
-.side-shadow-border,aside.sidebar section h1 { 
+.side-shadow-border,aside.sidebar section h1 {
 -moz-box-shadow: #fff 0 1px;
 -webkit-box-shadow: #fff 0 1px;
 -o-box-shadow: #fff 0 1px;
