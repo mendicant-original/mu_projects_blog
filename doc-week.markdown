@@ -19,7 +19,7 @@ We are also expecting support from **Steve Klabnik**, an active contributor to t
 
 We've combed through the core and standard libraries and pulled out a **[list of code that needs documentation](mri-list.html)**, many of them suitable for beginners to contribute. Take a look, and if you see any you'd like to work on, or have some ideas of your own, **[read these instructions to participate in Doc Week](https://github.com/rmu/great-justice-hackfest/wiki/How-to-document-Ruby)**.
 
-We'll have some office hours available for drop-in sessions during the week, if you need help getting started or want some feedback. Just drop in the #rmu channel on freenode. 
+We'll have some office hours available for drop-in sessions during the week, if you need help getting started or want some feedback. Just drop in the #rmu channel on freenode between 14:00 UTC and 20:00 UTC Tuesday-Friday.
 
 Or you can sign up to schedule an appointment at a time that's convenient for you. To sign up, **[open an issue on the MU mentoring github repo](https://github.com/rmu/mentoring/issues)**. Make sure you include the following info:
 
