@@ -7,7 +7,7 @@ categories:
 
 ## October 1 - 7, 2011
 
-Mendicant University is pleased to announce "**[Doc Week](http://projects.rubymendicant.com/doc-week/)**", a concerted effort to augment and enhance Ruby MRI documentation.
+Mendicant University is pleased to announce "**Doc Week**", a concerted effort to augment and enhance Ruby MRI documentation.
 
 Taking place during the **first week of October**, this program is targeted especially towards developers who have never (or only infrequently) contributed to OSS. We've put together a team of MU alumni who will be available to give feedback and walk you through the process of preparing and submitting a documentation patch.
 
