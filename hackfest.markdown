@@ -7,7 +7,7 @@ title: "Hackfest For Great Justice!"
 
 We're organizing the programmer's equivalent of a _community-oriented volunteer weekend_. We match up programmers with organizations doing socially valuable work, and work together with organizations on a particular project based on their needs.
 
-_Volunteer sign-up coming soon!_
+**[Join the cause! Volunteer here.](https://docs.google.com/spreadsheet/viewform?formkey=dHFydDYxa2pKWmdORjJyNjYyV1pLQmc6MQ)**
 
 ## When and where?
 
