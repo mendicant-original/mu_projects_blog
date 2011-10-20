@@ -15,7 +15,7 @@ It's happening online, the weekend of October 21-23. In the weeks leading up to 
 
 ## What projects will we be working on?
 
-We are working with three organizations that are working towards positive social change, that could benefit from software built around their needs. You can take a look at our [current project profiles](hackfest-projects.html) to learn more about them.
+We have connected with three organizations that are working towards positive social change, that could benefit from software built around their needs. You can take a look at our [current project profiles](hackfest-projects.html) to learn more about them.
 
 ## Only one weekend?
 
