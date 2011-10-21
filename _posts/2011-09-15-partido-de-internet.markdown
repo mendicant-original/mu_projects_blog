@@ -26,7 +26,7 @@ Currently Agora is a Rails 3 application that uses Spanish electronic identity c
 
 [PDI webpage](http://www.partidodeinternet.es) (in Spanish)<br>
 [PDI wiki](http://partidodeinternet.es/wiki/Portada) (in Spanish)<br>
-[Github project](http://github.com/agoraciudadana/referendum15oct)
+[Github project](http://github.com/PartidoDeInternet/AgoraOnRails)
 
 
 **Alberto Fernández-Capel** ([afcapel at gmail dot com](mailto:afcapel@gmail.com))<br>
